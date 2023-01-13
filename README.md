@@ -1,3 +1,3 @@
-# bottomnav
+# Create Bottom Navigation with HTML/CSS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-hcyrui)
+Demo: [https://stackblitz.com/edit/web-platform-hcyrui](https://stackblitz.com/edit/web-platform-hcyrui)
